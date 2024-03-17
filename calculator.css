@@ -1,0 +1,173 @@
+
+.one-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+
+.two-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+.three-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+.four-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+.five-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-bottom: 20px
+}
+
+.six-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+.seven-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+
+.eight-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+.nine-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 124px;
+    margin-bottom: 20px
+}
+
+.zero-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+
+.plus-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-bottom: 20px
+}
+
+.minus-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+
+.multiply-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+.divide-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 20px
+}
+
+.equal-but {
+    background-color: rgb(105, 52, 204);
+    color: rgb(79, 228, 228);
+    height: 100px;
+    width: 100px;
+    font-weight: 500;
+    font-size: xx-large;
+    margin-left: 183px;
+}
+
+
+
+
+
+#container {
+    
+    display: flexbox;
+    grid-gap: 0.2em;
+    grid-template-rows: repeat (var(--grid-rows), 1fr);
+    grid-template-columns: repeat(var(--grid-cols), 1fr);
+    background-color: rgb(0, 128, 128);
+    width: 960px;
+    height: 960px;
+    padding: 80px;
+}
+

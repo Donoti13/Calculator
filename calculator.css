@@ -1,24 +1,13 @@
 
-.one-but {
+#butooons button {
     background-color: rgb(105, 52, 204);
     color: rgb(79, 228, 228);
     height: 100px;
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 0px;
-    margin-bottom: 20px;
-}
-
-
-.two-but {
-    background-color: rgb(105, 52, 204);
-    color: rgb(79, 228, 228);
-    height: 100px;
-    width: 100px;
-    font-weight: 500;
-    font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 .three-but {
@@ -28,7 +17,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 .four-but {
@@ -38,7 +28,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 .five-but {
@@ -48,7 +39,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    border-radius: 20%;
 }
 
 .six-but {
@@ -58,7 +50,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 .seven-but {
@@ -68,7 +61,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 
@@ -79,7 +73,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 .nine-but {
@@ -90,7 +85,8 @@
     font-weight: 500;
     font-size: xx-large;
     margin-left: 124px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    border-radius: 20%;
 }
 
 .zero-but {
@@ -100,7 +96,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 
@@ -111,7 +108,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    border-radius: 20%;
 }
 
 .minus-but {
@@ -121,7 +119,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 
@@ -132,7 +131,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 .divide-but {
@@ -142,7 +142,8 @@
     width: 100px;
     font-weight: 500;
     font-size: xx-large;
-    margin-left: 20px
+    margin-left: 20px;
+    border-radius: 20%;
 }
 
 .equal-but {
@@ -153,6 +154,7 @@
     font-weight: 500;
     font-size: xx-large;
     margin-left: 183px;
+    border-radius: 20%;
 }
 
 
@@ -171,3 +173,21 @@
     padding: 80px;
 }
 
+.paragraph {
+
+    margin-top: 70px;
+    text-align: right;
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+#display {
+
+    border: 1px, solid rgb(0, 0, 0);
+    margin-bottom: 20 px;
+    width: 350px;
+    height: 100px;
+    background-color: #b2b9b7;
+    overflow-x: auto;
+    color: black;
+}
